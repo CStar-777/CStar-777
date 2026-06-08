@@ -59,12 +59,6 @@
 - 🏅 National College Student Mathematical Modeling — S Award
 - 🎖️ Outstanding Scholarship | National Encouragement Scholarship | Academic Scholarship -->
 
-### 📊 Stats
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CStar-777&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CStar-777&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ### 📫 Contact
 
