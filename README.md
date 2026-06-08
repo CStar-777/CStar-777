@@ -1,8 +1,8 @@
 # Hi, I'm CStar 👋
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFE&center=true&width=435&lines=PhD+Student+in+AI;LLM+Agent+Researcher;Computer+Vision+%2B+VLM" alt="Typing SVG" />
-</p>
+</p> -->
 
 ### 🎓 About Me
 
