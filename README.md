@@ -8,8 +8,8 @@
 
 - 🏫 **PhD in Artificial Intelligence** @ Xiamen University (2026.09 – 2030.06)
 - 🎓 **M.S. in Computer Science** @ Xiamen University (2023.09 – 2026.06)
-  - Media Analysis and Computing Lab (福建省重点实验室), advised by Prof. Rongrong Ji
-- 🎓 **B.E. in Computer Science** @ East China Normal University (2019.09 – 2023.06)
+  - Media Analysis and Computing Lab
+- 🎓 **B.E. in Computer Science** @ Capital Normal University (2019.09 – 2023.06)
 
 ### 🔬 Research Interests
 
@@ -21,8 +21,8 @@
 
 | Paper | Venue | Role |
 |-------|-------|------|
-| **Enhancing Semi-Supervised Instance Segmentation via Depth-Guided Learning** | PRCV | 1st Author |
-| **ESCNet: Edge-Semantic Collaborative Network for Camouflaged Object Detection** | ICCV | 2nd Author |
+| Enhancing Semi-Supervised Instance Segmentation via Depth-Guided Learning | PRCV | 1st Author |
+| ESCNet: Edge-Semantic Collaborative Network for Camouflaged Object Detection | ICCV | 2nd Author |
 | 一种基于模型校准注意力的工业异常检测方法 | Patent | 1st Author |
 
 ### 🛠️ Selected Projects
